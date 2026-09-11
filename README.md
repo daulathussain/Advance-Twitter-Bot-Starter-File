@@ -1,6 +1,6 @@
 # Advanced Twitter / X Bot
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2026/09/twitter-bot.zip)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2026/09/Create-Twitter-Bot-from-Scratch-Complete-Beginner-to-Advanced-Project-Using-Nodejs-Full-Project.jpg)
 
 - [Final Source Code]()
 
