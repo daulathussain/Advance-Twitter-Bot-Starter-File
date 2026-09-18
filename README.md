@@ -2,11 +2,11 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/09/Create-Twitter-Bot-from-Scratch-Complete-Beginner-to-Advanced-Project-Using-Nodejs-Full-Project.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-twitter-bot-from-scratch:-complete-beginner-to-advanced-project-using-node.js-full-project)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/aNvJt0-R0_U?si=zIh1qII_UhkVEglW)
 
 ## Project Overview
 
